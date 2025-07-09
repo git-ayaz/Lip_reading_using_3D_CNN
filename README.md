@@ -1,1 +1,0 @@
-# DNN_Lip_reading_using_3D_CNN
