@@ -1,0 +1,8 @@
+ipykernel
+opencv-python
+matplotlib
+imageio
+tensorflow
+numpy
+keras
+streamlit
