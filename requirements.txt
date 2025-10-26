@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ipykernel
 opencv-python
 matplotlib
@@ -5,4 +6,13 @@ imageio
 tensorflow
 numpy
 keras
+=======
+ipykernel
+opencv-python
+matplotlib
+imageio
+tensorflow
+numpy
+keras
+>>>>>>> master
 streamlit
