@@ -86,3 +86,13 @@ Layer sequence:
  Trainable params: 8,471,924 (32.32 MB)
  Non-trainable params: 0 (0.00 B)
 ```
+
+ ---
+
+ ## Live demo
+
+ You can try the live deployed app here:
+
+ https://lipreading-using3dcnn.streamlit.app/
+
+ Open the link in a browser to interact with the Streamlit interface.
