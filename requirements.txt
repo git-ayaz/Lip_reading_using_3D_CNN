@@ -3,16 +3,8 @@ ipykernel
 opencv-python
 matplotlib
 imageio
+imageio-ffmpeg
 tensorflow
 numpy
 keras
-=======
-ipykernel
-opencv-python
-matplotlib
-imageio
-tensorflow
-numpy
-keras
->>>>>>> master
 streamlit
