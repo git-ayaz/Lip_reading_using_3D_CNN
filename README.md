@@ -1,4 +1,4 @@
-# Audio Speech Recognition using 3D Convolutional Neural Networks
+# LIP READING : Speech Recognition without audio using 3D Convolutional Neural Networks
 ## Project Overview
 A deep learning-based audio speech recognition application. This project demonstrates lip reading using a 3D CNN model which analyzes lip motion from face video and outputs the predicted text without using audio.
 
