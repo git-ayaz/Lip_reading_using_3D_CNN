@@ -108,9 +108,7 @@ These metrics demonstrate the model's high accuracy in predicting spoken text fr
 
 Check out the demo video to see the lip reading model in action:
 
-[![Lip Reading Demo](https://img.shields.io/badge/Demo-Video-blue?style=for-the-badge)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-*Note: Replace the YouTube video link with your actual demo video URL*
+[![Lip Reading Demo](https://img.shields.io/badge/Demo-Video-blue?style=for-the-badge)](https://github.com/git-ayaz/Lip_reading_using_3D_CNN/blob/main/Demo.mp4)
 
 The demo video shows:
 - Real-time lip reading inference on video input
