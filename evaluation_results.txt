@@ -1,0 +1,7 @@
+Evaluation Results
+==================
+Model: checkpoint.weights.h5
+Dataset: GRID Corpus (S1 Test Split)
+
+Word Error Rate (WER):      0.0050
+Character Error Rate (CER): 0.0016
